@@ -1,8 +1,7 @@
 # To Do
 - Create a conda environment to store the packages
-- Unzip the data (use !unzip on terminal or use python package zipfile)
+- Export the data that you cleaned in the previous project (you can use your own cleaned data or someone else's) as a CSV file
 - Load the data into a pandas dataframe
-- Use previously cleaned data: You can use the cleaned data from the previous project (pick anyone's work you want to)
 - Perform a test train split
 - Use your favourite model to perform regression and get predictions on train data
 - Report appropriate metrics
